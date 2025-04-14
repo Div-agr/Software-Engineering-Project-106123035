@@ -44,30 +44,27 @@ This project simulates a real-world eCommerce platform, featuring:
 
 #### 🔹 **Frontend**
 
-- **React.js**  
-  <img src="./client/src/assets/react.png" alt="React" height="40"/>
+- **React.js**  <img src="./client/src/assets/react.png" alt="React" height="40"/>
 
-- **Redux Toolkit**  
-  <img src="./client/src/assets/redux.png" alt="Redux" height="40"/>
 
-- **Tailwind CSS / Bootstrap**  
-  <img src="./client/src/assets/tailwind.png" alt="Tailwind" height="40"/>
+- **Redux Toolkit**   <img src="./client/src/assets/redux.png" alt="Redux" height="40"/>
+
+- **Tailwind CSS / Bootstrap**   <img src="./client/src/assets/tailwind.png" alt="Tailwind" height="40"/>
 
 ---
 
 #### 🔹 **Backend**
 
-- **Node.js**  
-  <img src="./client/src/assets/nodejs.png" alt="Node.js" height="40"/>
+- **Node.js**  <img src="./client/src/assets/nodejs.png" alt="Node.js" height="40"/>
 
-- **Express.js**  
-  <img src="./client/src/assets/express.png" alt="Express" height="40"/>
 
-- **MongoDB**  
-  <img src="./client/src/assets/mongodb.png" alt="MongoDB" height="40"/>
+- **Express.js** <img src="./client/src/assets/express.png" alt="Express" height="40"/>
 
-- **JWT Authentication**  
-  <img src="./client/src/assets/jwt.png" alt="JWT" height="40"/>
+
+- **MongoDB** <img src="./client/src/assets/mongodb.webp" alt="MongoDB" height="40"/> 
+
+
+- **JWT Authentication** <img src="./client/src/assets/jwt.png" alt="JWT" height="40"/>
 
 
 
