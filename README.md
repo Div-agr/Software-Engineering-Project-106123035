@@ -46,18 +46,18 @@ This project simulates a real-world eCommerce platform, featuring:
 
 | Technology |
 |-----------|
-| React.js ![React](./client/assets/react.png) |
-| Redux Toolkit ![Redux](.client/assets/redux.png) |
-| Tailwind CSS / Bootstrap ![CSS](.client/assets/tailwind.png) |
+| React.js ![React](./client/src/assets/react.png) |
+| Redux Toolkit ![Redux](.client/src/assets/redux.png) |
+| Tailwind CSS / Bootstrap ![CSS](.client/src/assets/tailwind.png) |
 
 ### Backend
 
 | Technology |
 |-----------|
-| Node.js ![Node](./client/assets/nodejs.png) |
-| Express.js ![Express](./client/assets/express.png) |
-| MongoDB ![MongoDB](./client/assets/mongodb.png) |
-| JWT Auth ![JWT](./client/assets/jwt.png) |
+| Node.js ![Node](./client/src/assets/nodejs.png) |
+| Express.js ![Express](./client/src/assets/express.png) |
+| MongoDB ![MongoDB](./client/src/assets/mongodb.png) |
+| JWT Auth ![JWT](./client/src/assets/jwt.png) |
 
 ---
 
@@ -65,19 +65,19 @@ This project simulates a real-world eCommerce platform, featuring:
 
 ### ✅ Use Case Diagram
 
-![Use Case Diagram](./assets/usecase-diagram.png)
+![Use Case Diagram](./client/assets/src/usecase-diagram.png)
 
 ---
 
 ### 🧱 Class Diagram
 
-![Class Diagram](./assets/class-diagram.png)
+![Class Diagram](./client/src/assets/class-diagram.png)
 
 ---
 
 ### 🔄 Activity Diagram
 
-![Activity Diagram](./assets/activity-diagram.png)
+![Activity Diagram](./client/src/assets/activity-diagram.png)
 
 ---
 
