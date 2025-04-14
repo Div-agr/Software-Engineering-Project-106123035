@@ -185,6 +185,9 @@ Configuration
 - Verify the functionality of each feature listed in the Features section.
 
 ##View
+* Login
+<img src="./client/src/assets/login.png" alt="login">
+
 * User Dashboard 
 <img src="./client/src/assets/userdashboard.png" alt="user-dashboard">
 
