@@ -42,33 +42,10 @@ This project simulates a real-world eCommerce platform, featuring:
 
 ### 🚀 Tech Stack
 
-#### 🔹 **Frontend**
-
-- **React.js**  <img src="./client/src/assets/react.png" alt="React" height="40"/>
-
-
-- **Redux Toolkit**   <img src="./client/src/assets/redux.png" alt="Redux" height="40"/>
-
-- **Tailwind CSS / Bootstrap**   <img src="./client/src/assets/tailwind.png" alt="Tailwind" height="40"/>
-
----
-
-#### 🔹 **Backend**
-
-- **Node.js**  <img src="./client/src/assets/nodejs.png" alt="Node.js" height="40"/>
-
-
-- **Express.js** <img src="./client/src/assets/express.png" alt="Express" height="40"/>
-
-
-- **MongoDB** <img src="./client/src/assets/mongodb.webp" alt="MongoDB" height="40"/> 
-
-
-- **JWT Authentication** <img src="./client/src/assets/jwt.png" alt="JWT" height="40"/>
-
-
-
----
+**Frontend**: <img src="./client/src/assets/react.png" alt="React" height="40"/> React, <img src="./client/src/assets/tailwind.png" alt="Tailwind" height="40"/> Tailwind CSS/ Bootstrap
+**Backend**: <img src="./client/src/assets/nodejs.webp" alt="Node.js" height="40"/> Node.js, <img src="./client/src/assets/redux.png" alt="Redux" height="40"/> Redux, <img src="./client/src/assets/express.png" alt="Express" height="40"/> Express
+**Database**: <img src="./client/src/assets/mongodb.webp" alt="MongoDB" height="40"/> MongoDB, <img src="./client/src/assets/redis.png" alt="redis" height="40"/> Redis
+**Authentication**: <img src="./client/src/assets/jwt.png" alt="JWT" height="40"/> JWT
 
 ## 📊 UML Diagrams
 
