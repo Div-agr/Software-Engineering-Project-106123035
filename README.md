@@ -185,20 +185,20 @@ Configuration
 - Verify the functionality of each feature listed in the Features section.
 
 ##View
-*User Dashboard 
+* User Dashboard 
 <img src="./client/src/assets/userdashboard.png" alt="user-dashboard">
 
-*Admin Panel
+* Admin Panel
 <img src="./client/src/assets/admin panel.png" alt="admin-panel">
 
-*Selections
+* Selections
 <img src="./client/src/assets/selections.png" alt="selections">
 
-*Products
+* Products
 <img src="./client/src/assets/products.png" alt="products">
 
-*Categories
+* Categories
 <img src="./client/src/assets/categories.png" alt="categories">
 
-*Cart Address info & Payment
+* Cart Address info & Payment
 <img src="./client/src/assets/cart and address.png" alt="payment">
