@@ -184,3 +184,21 @@ Configuration
 - Ensure all environment variables are correctly set.
 - Verify the functionality of each feature listed in the Features section.
 
+##View
+*User Dashboard 
+<img src="./client/src/assets/userdashboard.png" alt="user-dashboard">
+
+*Admin Panel
+<img src="./client/src/assets/admin panel.png" alt="admin-panel">
+
+*Selections
+<img src="./client/src/assets/selections.png" alt="selections">
+
+*Products
+<img src="./client/src/assets/products.png" alt="products">
+
+*Categories
+<img src="./client/src/assets/categories.png" alt="categories">
+
+*Cart Address info & Payment
+<img src="./client/src/assets/cart and address.png" alt="payment">
