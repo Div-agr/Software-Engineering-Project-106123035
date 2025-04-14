@@ -44,20 +44,50 @@ This project simulates a real-world eCommerce platform, featuring:
 
 ### Frontend
 
-| Technology |
-|-----------|
-| React.js ![React](./client/src/assets/react.png) |
-| Redux Toolkit ![Redux](.client/src/assets/redux.png) |
-| Tailwind CSS / Bootstrap ![CSS](.client/src/assets/tailwind.png) |
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Logo</th>
+  </tr>
+  <tr>
+    <td>React.js</td>
+    <td><img src="./client/src/assets/react.png" alt="React" height="30"/></td>
+  </tr>
+  <tr>
+    <td>Redux Toolkit</td>
+    <td><img src="./client/src/assets/redux.png" alt="Redux" height="30"/></td>
+  </tr>
+  <tr>
+    <td>Tailwind CSS / Bootstrap</td>
+    <td><img src="./client/src/assets/tailwind.png" alt="Tailwind" height="30"/></td>
+  </tr>
+</table>
 
 ### Backend
 
-| Technology |
-|-----------|
-| Node.js ![Node](./client/src/assets/nodejs.png) |
-| Express.js ![Express](./client/src/assets/express.png) |
-| MongoDB ![MongoDB](./client/src/assets/mongodb.png) |
-| JWT Auth ![JWT](./client/src/assets/jwt.png) |
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Logo</th>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td><img src="./client/src/assets/nodejs.png" alt="Node.js" height="30"/></td>
+  </tr>
+  <tr>
+    <td>Express.js</td>
+    <td><img src="./client/src/assets/express.png" alt="Express" height="30"/></td>
+  </tr>
+  <tr>
+    <td>MongoDB</td>
+    <td><img src="./client/src/assets/mongodb.png" alt="MongoDB" height="30"/></td>
+  </tr>
+  <tr>
+    <td>JWT Auth</td>
+    <td><img src="./client/src/assets/jwt.png" alt="JWT" height="30"/></td>
+  </tr>
+</table>
+
 
 ---
 
