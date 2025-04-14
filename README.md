@@ -44,20 +44,20 @@ This project simulates a real-world eCommerce platform, featuring:
 
 ### Frontend
 
-| Technology | Logo |
-|-----------|------|
-| React.js | ![React](./assets/react.png) |
-| Redux Toolkit | ![Redux](./assets/redux.png) |
-| Tailwind CSS / Bootstrap | ![CSS](./assets/tailwind.png) |
+| Technology |
+|-----------|
+| React.js ![React](./client/assets/react.png) |
+| Redux Toolkit ![Redux](.client/assets/redux.png) |
+| Tailwind CSS / Bootstrap ![CSS](.client/assets/tailwind.png) |
 
 ### Backend
 
-| Technology | Logo |
-|-----------|------|
-| Node.js | ![Node](./assets/node.png) |
-| Express.js | ![Express](./assets/express.png) |
-| MongoDB | ![MongoDB](./assets/mongodb.png) |
-| JWT Auth | ![JWT](./assets/jwt.png) |
+| Technology |
+|-----------|
+| Node.js ![Node](./client/assets/nodejs.png) |
+| Express.js ![Express](./client/assets/express.png) |
+| MongoDB ![MongoDB](./client/assets/mongodb.png) |
+| JWT Auth ![JWT](./client/assets/jwt.png) |
 
 ---
 
