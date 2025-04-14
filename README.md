@@ -184,7 +184,7 @@ Configuration
 - Ensure all environment variables are correctly set.
 - Verify the functionality of each feature listed in the Features section.
 
-##View
+## View
 * Login
 <img src="./client/src/assets/login.png" alt="login">
 
