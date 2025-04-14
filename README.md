@@ -40,53 +40,35 @@ This project simulates a real-world eCommerce platform, featuring:
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
-### Frontend
+#### 🔹 **Frontend**
 
-<table>
-  <tr>
-    <th>Technology</th>
-    <th>Logo</th>
-  </tr>
-  <tr>
-    <td>React.js</td>
-    <td><img src="./client/src/assets/react.png" alt="React" height="30"/></td>
-  </tr>
-  <tr>
-    <td>Redux Toolkit</td>
-    <td><img src="./client/src/assets/redux.png" alt="Redux" height="30"/></td>
-  </tr>
-  <tr>
-    <td>Tailwind CSS / Bootstrap</td>
-    <td><img src="./client/src/assets/tailwind.png" alt="Tailwind" height="30"/></td>
-  </tr>
-</table>
+- **React.js**  
+  <img src="./client/src/assets/react.png" alt="React" height="40"/>
 
-### Backend
+- **Redux Toolkit**  
+  <img src="./client/src/assets/redux.png" alt="Redux" height="40"/>
 
-<table>
-  <tr>
-    <th>Technology</th>
-    <th>Logo</th>
-  </tr>
-  <tr>
-    <td>Node.js</td>
-    <td><img src="./client/src/assets/nodejs.png" alt="Node.js" height="30"/></td>
-  </tr>
-  <tr>
-    <td>Express.js</td>
-    <td><img src="./client/src/assets/express.png" alt="Express" height="30"/></td>
-  </tr>
-  <tr>
-    <td>MongoDB</td>
-    <td><img src="./client/src/assets/mongodb.png" alt="MongoDB" height="30"/></td>
-  </tr>
-  <tr>
-    <td>JWT Auth</td>
-    <td><img src="./client/src/assets/jwt.png" alt="JWT" height="30"/></td>
-  </tr>
-</table>
+- **Tailwind CSS / Bootstrap**  
+  <img src="./client/src/assets/tailwind.png" alt="Tailwind" height="40"/>
+
+---
+
+#### 🔹 **Backend**
+
+- **Node.js**  
+  <img src="./client/src/assets/nodejs.png" alt="Node.js" height="40"/>
+
+- **Express.js**  
+  <img src="./client/src/assets/express.png" alt="Express" height="40"/>
+
+- **MongoDB**  
+  <img src="./client/src/assets/mongodb.png" alt="MongoDB" height="40"/>
+
+- **JWT Authentication**  
+  <img src="./client/src/assets/jwt.png" alt="JWT" height="40"/>
+
 
 
 ---
