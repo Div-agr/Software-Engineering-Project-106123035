@@ -44,7 +44,7 @@ This project simulates a real-world eCommerce platform, featuring:
 
 - **Frontend**: <img src="./client/src/assets/react.png" alt="React" height="40"/> React, <img src="./client/src/assets/tailwind.png" alt="Tailwind" height="40"/> Tailwind CSS/ Bootstrap
 - **Backend**: <img src="./client/src/assets/nodejs.webp" alt="Node.js" height="40"/> Node.js, <img src="./client/src/assets/redux.png" alt="Redux" height="40"/> Redux, <img src="./client/src/assets/express.png" alt="Express" height="40"/> Express
-- **Database**: <img src="./client/src/assets/mongodb.webp" alt="MongoDB" height="40"/> MongoDB, <img src="./client/src/assets/redis.png" alt="redis" height="40"/> Redis
+- **Database**: <img src="./client/src/assets/mongodb.webp" alt="MongoDB" height="40"/> MongoDB
 - **Authentication**: <img src="./client/src/assets/jwt.png" alt="JWT" height="40"/> JWT
 
 ### System Requirements
@@ -151,5 +151,36 @@ Here are the descriptions of the different classes of our Online Shopping System
 
 ---
 
-## 📁 Folder Structure (Basic Overview)
+Configuration
+   1. Create a `.env` file in the `server` folder.
+   2. Add the following environments varialbes to the `.env` file. Replace placeholders with your actual credentials:
+   ```env
+   MONGO_URI=your_mongodb_uri
+   PORT=5000
+   JWT_SECRET=your_jwt_secret
+   FRONT_END_URL=http://localhost:3000
+   CLOUDINARY_KEY=your_cloudinary_key
+   CLOUDINARY_SECRET=your_cloudinary_secret
+   CLOUD_NAME=your_cloudinary_cloud_name
+   ```
+   3. Configure the Spotify, Genius and Cloudinary credentials:
+      - **Cloudinary:** Create an account to obtain your **`CLOUDINARY_KEY`** **`CLOUDINARY_SECRET`**, and **`CLOUD_NAME`**.
+
+## Running the Application
+
+1. Start the backend server:
+   ```bash
+   cd server
+   npm run dev
+   ```
+2. Start the frontend application:
+   ```bash
+   cd client
+   npm run dev
+   ```
+
+## Testing
+
+- Ensure all environment variables are correctly set.
+- Verify the functionality of each feature listed in the Features section.
 
