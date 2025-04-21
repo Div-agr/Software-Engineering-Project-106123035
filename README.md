@@ -1,22 +1,21 @@
-# 🛒 MERN eCommerce Platform
+#  MERN eCommerce Platform
 
 A full-stack **eCommerce web application** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), providing a seamless online shopping experience with secure authentication, product management, shopping cart, and order processing.
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
+- [Overview](#Overview)
+- [Features](#Features)
+- [Tech Stack](#Tech-Stack)
 - [UML Diagrams](#uml-diagrams)
-- [Folder Structure](#folder-structure)
 - [Getting Started](#getting-started)
-- [Author](#author)
+- [View](#View)
 
 ---
 
-## 📸 Overview
+##  Overview
 
 This project simulates a real-world eCommerce platform, featuring:
 
@@ -28,19 +27,19 @@ This project simulates a real-world eCommerce platform, featuring:
 
 ---
 
-## ✨ Features
+##  Features
 
-- 👤 User authentication (JWT-based)
-- 🛍️ Product listing, details, and categories
-- 🛒 Cart and wishlist management
-- 💳 Payment gateway integration (Stripe/PayPal)
-- 📦 Order history and tracking
-- 🔐 Admin panel (Add/Edit/Delete products)
-- 📱 Fully responsive UI
+-  User authentication (JWT-based)
+- 🛍 Product listing, details, and categories
+-  Cart and wishlist management
+-  Payment gateway integration (Stripe/PayPal)
+-  Order history and tracking
+-  Admin panel (Add/Edit/Delete products)
+-  Fully responsive UI
 
 ---
 
-### 🚀 Tech Stack
+###  Tech-Stack
 
 - **Frontend**: <img src="./client/src/assets/react.png" alt="React" height="40"/> React, <img src="./client/src/assets/tailwind.png" alt="Tailwind" height="40"/> Tailwind CSS/ Bootstrap
 - **Backend**: <img src="./client/src/assets/nodejs.webp" alt="Node.js" height="40"/> Node.js, <img src="./client/src/assets/redux.png" alt="Redux" height="40"/> Redux, <img src="./client/src/assets/express.png" alt="Express" height="40"/> Express
@@ -117,13 +116,13 @@ Here are the descriptions of the different classes of our Online Shopping System
 
 ---
 
-### 🔄 Activity Diagram
+### Activity Diagram
 
 ![Activity Diagram](./client/src/assets/activityDiagram.png)
 
 ---
 
-### 📈 Sequence Diagram
+### Sequence Diagram
 
 1. Here is the sequence diagram for searching from the catalog:
 
@@ -178,11 +177,6 @@ Configuration
    cd client
    npm run dev
    ```
-
-## Testing
-
-- Ensure all environment variables are correctly set.
-- Verify the functionality of each feature listed in the Features section.
 
 ## View
 * Login
